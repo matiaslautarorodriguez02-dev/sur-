@@ -51,3 +51,4 @@ Las fotografías están publicadas bajo la [licencia de Unsplash](https://unspla
 
 GitHub Pages no procesa pagos ni protege secretos. No ingreses claves privadas, CBU o credenciales en el JavaScript público. Para cobrar, coordiná un link de pago oficial de Mercado Pago o transferencia por WhatsApp; las cuotas mostradas en la franja superior son una referencia comercial editable y deben coincidir con la promoción real antes de publicar. El costo de envío se confirma al cerrar el pedido.
 # sur-
+# sur-
