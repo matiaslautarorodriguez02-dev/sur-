@@ -1,0 +1,174 @@
+[
+  {
+    "id": "remera-nube",
+    "name": "Remera Nube",
+    "category": "unisex",
+    "type": "Remera",
+    "price": 38500,
+    "compareAt": 45000,
+    "badge": "MÁS ELEGIDO",
+    "color": "Crudo",
+    "colorHex": "#e7dfd1",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Jersey de algodón peinado 24/1, suave y liviano. Un básico de todos los días con calce relajado.",
+    "image": "https://images.unsplash.com/photo-1578932750355-5eb30ece487a?auto=format&fit=crop&w=1000&q=85",
+    "alt": "Remera clara colgada en una percha, fotografía de Derick McKinney",
+    "featured": 1,
+    "imageCredit": "Derick McKinney — https://unsplash.com/photos/white-crew-neck-shirt-on-hanger-cmbbXRjYUZA",
+    "fallbackImage": "assets/remera-nube.svg"
+  },
+  {
+    "id": "camisa-oliva",
+    "name": "Camisa Oliva",
+    "category": "mujer",
+    "type": "Camisa",
+    "price": 72900,
+    "color": "Oliva",
+    "colorHex": "#777862",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Lino y algodón en una mezcla fresca, con botones de madera y silueta amplia. Ideal para llevar abierta o cerrada.",
+    "image": "https://images.unsplash.com/photo-1565879629833-ed3347e455fe?auto=format&fit=crop&w=1000&q=85",
+    "alt": "Hombre con camiseta verde y amarilla, fotografía de Miguel Dominguez",
+    "featured": 2,
+    "imageCredit": "Miguel Dominguez — https://unsplash.com/photos/man-wearing-green-and-yellow-crew-neck-t-shirt-facing-his-left-side-olBWIB37zWo",
+    "fallbackImage": "assets/camisa-oliva.svg"
+  },
+  {
+    "id": "pantalon-tierra",
+    "name": "Pantalón Tierra",
+    "category": "hombre",
+    "type": "Pantalón",
+    "price": 84900,
+    "color": "Terracota",
+    "colorHex": "#b67254",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Sarga de algodón con cintura elastizada y cordón. Un corte recto y cómodo que funciona de la mañana a la noche.",
+    "image": "https://images.unsplash.com/photo-1767631338127-8cd80ee2f9df?auto=format&fit=crop&w=1000&q=85",
+    "alt": "Mujer con camisa blanca y pantalón ancho negro, fotografía de Ramo Roso",
+    "featured": 3,
+    "imageCredit": "Ramo Roso — https://unsplash.com/photos/woman-in-white-shirt-and-black-wide-leg-pants-9E7s5oyDmxg",
+    "fallbackImage": "assets/pantalon-tierra.svg"
+  },
+  {
+    "id": "top-marea",
+    "name": "Top Marea",
+    "category": "mujer",
+    "type": "Top",
+    "price": 42900,
+    "color": "Azul",
+    "colorHex": "#738897",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Top de punto acanalado con escote cuadrado. Tejido de algodón orgánico con un toque de elastano.",
+    "image": "https://images.unsplash.com/photo-1789110853487-b886411f11cb?auto=format&fit=crop&w=1000&q=85",
+    "alt": "Mujer con top blanco y pantalón ancho rosa, fotografía de Engin Akyurt",
+    "featured": 4,
+    "imageCredit": "Engin Akyurt — https://unsplash.com/photos/woman-in-white-top-and-trousers-WroHMbuh3Mg",
+    "fallbackImage": "assets/top-marea.svg"
+  },
+  {
+    "id": "buzo-sur",
+    "name": "Buzo Sur",
+    "category": "unisex",
+    "type": "Buzo",
+    "price": 78900,
+    "compareAt": 89000,
+    "color": "Grafito",
+    "colorHex": "#444641",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Frisa de algodón de textura suave, interior perchado y hombro caído. Abrigo liviano para capas y tardes frescas.",
+    "image": "https://images.unsplash.com/photo-1671770324841-6cbc0cccb93d?auto=format&fit=crop&w=1000&q=85",
+    "alt": "Mujer con sweater claro, fotografía de Saket Krishnam",
+    "featured": 5,
+    "imageCredit": "Saket Krishnam — https://unsplash.com/photos/a-woman-posing-for-a-picture-in-a-white-sweater-lDHNphcBKrI",
+    "fallbackImage": "assets/buzo-sur.svg"
+  },
+  {
+    "id": "vestido-luz",
+    "name": "Vestido Luz",
+    "category": "mujer",
+    "type": "Vestido",
+    "price": 96500,
+    "color": "Arena",
+    "colorHex": "#c8b89c",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "description": "Vestido largo en lino lavado, con tiras ajustables y espalda elástica. Liviano, fresco y pensado para moverse.",
+    "image": "https://images.unsplash.com/photo-1705602626811-6cceda8830ff?auto=format&fit=crop&w=1000&q=85",
+    "alt": "Vestido colgado junto a una silla, fotografía de Jonathan Borba",
+    "featured": 6,
+    "imageCredit": "Jonathan Borba — https://unsplash.com/photos/a-dress-hanging-on-a-hanger-next-to-a-chair-v_NAcAeB_Kg",
+    "fallbackImage": "assets/vestido-luz.svg"
+  },
+  {
+    "id": "remera-bosque",
+    "name": "Remera Bosque",
+    "category": "hombre",
+    "type": "Remera",
+    "price": 38500,
+    "color": "Verde",
+    "colorHex": "#536653",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Algodón pesado con terminación garment dyed. Un tono profundo que mejora con cada lavado.",
+    "image": "https://images.unsplash.com/photo-1573301294846-e65b24cdfbef?auto=format&fit=crop&w=1000&q=85",
+    "alt": "Hombre con camiseta oscura, fotografía de Sammy Chandio",
+    "featured": 7,
+    "imageCredit": "Sammy Chandio — https://unsplash.com/photos/man-wearing-black-crew-neck-t-shirt-xmbL3d1gE5Q",
+    "fallbackImage": "assets/remera-bosque.svg"
+  },
+  {
+    "id": "camisa-bruma",
+    "name": "Camisa Bruma",
+    "category": "unisex",
+    "type": "Camisa",
+    "price": 75900,
+    "color": "Celeste",
+    "colorHex": "#a6b7b6",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Camisa amplia de poplín de algodón, con bolsillo frontal y botones al tono. Una capa liviana para toda estación.",
+    "image": "https://images.unsplash.com/photo-1625666234464-69fe1e5c44cc?auto=format&fit=crop&w=1000&q=85",
+    "alt": "Camisa celeste y blanca colgada en una percha, fotografía de Joshua Thomas",
+    "featured": 8,
+    "imageCredit": "Joshua Thomas — https://unsplash.com/photos/white-and-blue-shirt-on-clothes-hanger-dxsgEdYJJVM",
+    "fallbackImage": "assets/camisa-bruma.svg"
+  }
+]
